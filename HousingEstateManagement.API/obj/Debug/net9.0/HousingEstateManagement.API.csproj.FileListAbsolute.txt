@@ -165,3 +165,4 @@ C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstate
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\bin\Debug\net9.0\HousingEstateManagement.Application.pdb
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\bin\Debug\net9.0\HousingEstateManagement.Infrastructure.pdb
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\bin\Debug\net9.0\HousingEstateManagement.Domain.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\obj\Debug\net9.0\HousingEstateManagement.API.sourcelink.json

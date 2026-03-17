@@ -15,7 +15,7 @@ const Topbar = ({ onMenuClick }: TopbarProps) => {
     : 'Yükleniyor...';
 
   return (
-    <header className="sticky top-0 z-30 flex h-[70px] items-center justify-between border-b border-white/10 bg-slate-950/70 px-4 backdrop-blur-xl lg:justify-end lg:px-8">
+    <header className="sticky top-0 z-30 flex h-[70px] items-center justify-between border-b border-white/10 bg-slate-900/70 px-4 backdrop-blur-xl lg:justify-end lg:px-8">
       {/* Mobile Menu Toggle */}
       <button
         onClick={onMenuClick}

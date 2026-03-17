@@ -48,12 +48,12 @@ namespace HousingEstateManagement.API.Controllers
 
                 summaries.Add(new
                 {
-                    BlockId = block.Id,
-                    BlockName = block.Name,
-                    ManagerName = manager != null ? $"{manager.FirstName} {manager.LastName}" : null,
-                    TotalApartments = block.TotalApartments,
-                    ActiveResidents = activeResidents,
-                    Balance = balanceResult.Data
+                    blockId = block.Id,
+                    blockName = block.Name,
+                    managerName = manager != null ? $"{manager.FirstName} {manager.LastName}" : null,
+                    totalApartments = block.TotalApartments,
+                    activeResidents = activeResidents,
+                    balance = balanceResult.Data
                 });
             }
 

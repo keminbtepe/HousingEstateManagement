@@ -83,12 +83,13 @@ namespace HousingEstateManagement.Application.Services
             var users = await _uow.Users.GetActiveUsersWithDetailsAsync();
             var results = users.Select(u => new
                 {
-                    u.Id,
-                    FullName = u.FirstName + " " + u.LastName,
-                    u.Role,
-                    RoleName = u.Role.ToString(),
-                    BlockName = u.Block != null ? u.Block.Name : "Atanmadı",
-                    u.ApartmentNumber
+                    id = u.Id,
+                    fullName = u.FirstName + " " + u.LastName,
+                    role = (int)u.Role,
+                    roleName = u.Role.ToString(),
+                    blockId = u.BlockId,
+                    blockName = u.Block != null ? u.Block.Name : "Atanmadı",
+                    apartmentNumber = u.ApartmentNumber
                 }).ToList();
             return Result<IEnumerable<object>>.Success(results.Cast<object>());
         }

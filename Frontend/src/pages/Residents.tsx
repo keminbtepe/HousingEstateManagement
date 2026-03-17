@@ -20,18 +20,26 @@ const badgeColors: Record<string, string> = {
   tenant: 'bg-amber-500/20 text-amber-300 border border-amber-400/20',
 };
 
-const Residents = () => {
+interface ResidentsProps {
+  initialBlockFilter?: string | null;
+}
+
+const Residents = ({ initialBlockFilter }: ResidentsProps) => {
   const { user } = useAuthStore();
   const [residents, setResidents] = useState<Resident[]>([]);
   const [blocks, setBlocks] = useState<Block[]>([]);
   const [loading, setLoading] = useState(true);
   const [search, setSearch] = useState('');
-  const [blockFilter, setBlockFilter] = useState('all');
+  const [blockFilter, setBlockFilter] = useState(initialBlockFilter || 'all');
   const [roleFilter, setRoleFilter] = useState('all');
 
   useEffect(() => {
     if (user) fetchData();
   }, [user]);
+
+  useEffect(() => {
+    setBlockFilter(initialBlockFilter || 'all');
+  }, [initialBlockFilter]);
 
   const fetchData = async () => {
     try {
@@ -122,7 +130,7 @@ const Residents = () => {
             </thead>
             <tbody>
               {filteredResidents.map((r) => (
-                <tr key={r.id} className="border-b border-white/5 transition hover:bg-white/[0.02]">
+                <tr key={r.id} className="border-b border-white/5 transition hover:bg-white/2">
                   <td className="px-4 py-3 font-semibold">{r.fullName || `${r.firstName || ''} ${r.lastName || ''}`}</td>
                   <td className="px-4 py-3">
                     <span className={`inline-flex rounded-full px-2.5 py-0.5 text-[0.7rem] font-semibold ${getBadge(r.role)}`}>

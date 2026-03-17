@@ -10,7 +10,16 @@ import BlockManagement from '../../pages/BlockManagement';
 
 const MainLayout = () => {
   const [currentView, setCurrentView] = useState('dashboard');
+  const [residentBlockFilter, setResidentBlockFilter] = useState<string | null>(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+
+  const handleViewChange = (view: string, filter?: string) => {
+    setCurrentView(view);
+    // If a filter is explicitly provided (from BlockManagement), use it.
+    // Othewise, reset it (navigation from Sidebar).
+    setResidentBlockFilter(filter || null);
+    setIsSidebarOpen(false);
+  };
 
   const renderView = () => {
     switch (currentView) {
@@ -18,20 +27,17 @@ const MainLayout = () => {
       case 'elections': return <Elections />;
       case 'financials': return <Financials />;
       case 'announcements': return <Announcements />;
-      case 'residents': return <Residents />;
-      case 'block-management': return <BlockManagement />;
+      case 'residents': return <Residents initialBlockFilter={residentBlockFilter} />;
+      case 'block-management': return <BlockManagement onViewChange={handleViewChange} />;
       default: return <Dashboard />;
     }
   };
 
   return (
-    <div className="flex min-h-screen bg-slate-950 text-slate-50">
+    <div className="flex min-h-screen bg-slate-900 text-slate-50">
       <Sidebar 
         currentView={currentView} 
-        onViewChange={(view) => {
-          setCurrentView(view);
-          setIsSidebarOpen(false);
-        }} 
+        onViewChange={handleViewChange} 
         isOpen={isSidebarOpen}
         onClose={() => setIsSidebarOpen(false)}
       />

@@ -4,7 +4,11 @@ import api from '../services/api';
 import { Search } from 'lucide-react';
 import type { BlockSummary } from '../types';
 
-const BlockManagement = () => {
+interface BlockManagementProps {
+  onViewChange?: (view: string, filter?: string) => void;
+}
+
+const BlockManagement = ({ onViewChange }: BlockManagementProps) => {
   const { user } = useAuthStore();
   const [summaries, setSummaries] = useState<BlockSummary[]>([]);
   const [loading, setLoading] = useState(true);
@@ -49,11 +53,19 @@ const BlockManagement = () => {
             </thead>
             <tbody>
               {summaries.map((b) => (
-                <tr key={b.blockId} className="border-b border-white/5 transition hover:bg-white/[0.02]">
+                <tr key={b.blockId} className="border-b border-white/5 transition hover:bg-white/2">
                   <td className="px-4 py-3 font-semibold">{b.blockName}</td>
                   <td className="px-4 py-3">{b.managerName || 'Seçilmedi'}</td>
                   <td className="px-4 py-3">{b.totalApartments}</td>
-                  <td className="px-4 py-3">{b.activeResidents}</td>
+                  <td className="px-4 py-3">
+                    <button
+                      onClick={() => onViewChange?.('residents', b.blockId.toString())}
+                      className="rounded-full bg-primary/10 px-3 py-1 font-bold text-primary transition hover:bg-primary/20 hover:scale-105"
+                      title="Sakinleri Gör"
+                    >
+                      {b.activeResidents}
+                    </button>
+                  </td>
                   <td className={`px-4 py-3 font-semibold ${b.balance >= 0 ? 'text-emerald-400' : 'text-red-400'}`}>
                     {b.balance.toLocaleString('tr-TR')} ₺
                   </td>

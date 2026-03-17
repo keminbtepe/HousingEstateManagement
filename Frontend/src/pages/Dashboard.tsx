@@ -109,7 +109,7 @@ const Dashboard = () => {
               </thead>
               <tbody>
                 {data.recentTransactions.map((t, idx) => (
-                  <tr key={idx} className="border-b border-white/5 transition hover:bg-white/[0.02]">
+                  <tr key={idx} className="border-b border-white/5 transition hover:bg-white/2">
                     <td className="px-4 py-3">{t.date}</td>
                     <td className="px-4 py-3">{t.description}</td>
                     <td className={`px-4 py-3 font-medium ${t.transactionType === 1 ? 'text-emerald-400' : 'text-red-400'}`}>

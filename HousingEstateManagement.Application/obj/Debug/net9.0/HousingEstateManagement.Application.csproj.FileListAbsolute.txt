@@ -13,3 +13,4 @@ C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstate
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\refint\HousingEstateManagement.Application.dll
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.pdb
 C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\ref\HousingEstateManagement.Application.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.sourcelink.json

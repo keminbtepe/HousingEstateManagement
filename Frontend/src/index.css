@@ -5,9 +5,9 @@
   --color-primary: #4F46E5;
   --color-primary-hover: #4338CA;
   --color-secondary: #10B981;
-  --color-surface: rgba(15, 23, 42, 0.8);
-  --color-surface-border: rgba(255, 255, 255, 0.1);
-  --color-bg: #0F172A;
+  --color-surface: rgba(30, 41, 59, 0.7);
+  --color-surface-border: rgba(255, 255, 255, 0.08);
+  --color-bg: #111827;
   --color-danger: #EF4444;
   --color-warning: #F59E0B;
   --color-success: #10B981;

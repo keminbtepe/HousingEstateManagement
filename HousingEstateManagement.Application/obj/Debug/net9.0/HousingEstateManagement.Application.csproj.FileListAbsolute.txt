@@ -1,0 +1,15 @@
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.csproj.AssemblyReference.cache
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.AssemblyInfoInputs.cache
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.AssemblyInfo.cs
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Application.deps.json
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Application.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Application.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Domain.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Domain.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingE.B3A16B7F.Up2Date
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\refint\HousingEstateManagement.Application.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\HousingEstateManagement.Application.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\obj\Debug\net9.0\ref\HousingEstateManagement.Application.dll

@@ -1,0 +1,26 @@
+﻿  Geri y├╝klenecek projeler belirleniyor...
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\HousingEstateManagement.Application.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.sln]
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.sln]
+  Geri y├╝kleme i├ğin t├╝m projeler g├╝ncel.
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\HousingEstateManagement.Application.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var
+  HousingEstateManagement.Domain -> C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\bin\Debug\net9.0\HousingEstateManagement.Domain.dll
+  HousingEstateManagement.Application -> C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\bin\Debug\net9.0\HousingEstateManagement.Application.dll
+  HousingEstateManagement.Infrastructure -> C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Infrastructure\bin\Debug\net9.0\HousingEstateManagement.Infrastructure.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\Controllers\FinancialController.cs(116,83): error CS0246: 'IUnitOfWork' t├╝r├╝ veya ad alan─▒ ad─▒ bulunamad─▒ (bir using y├Ânergeniz veya derleme ba┼şvurunuz mu eksik?) [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj]
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\Program.cs(52,76): warning CS8604: 'byte[] Encoding.GetBytes(string s)' i├ğindeki 's' parametresi i├ğin olas─▒ null ba┼şvuru ba─ş─▒ms─▒z de─şi┼şkeni. [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj]
+
+Olu┼şturma BA┼ŞARISIZ OLDU.
+
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\HousingEstateManagement.Application.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.sln]
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.sln]
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Application\HousingEstateManagement.Application.csproj : warning NU1903: 'AutoMapper' 12.0.1 paketinde ├Ânem derecesi y├╝ksek olan bilinen bir https://github.com/advisories/GHSA-rvv3-g6hj-g44x g├╝venlik a├ğ─▒─ş─▒ var
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\Program.cs(52,76): warning CS8604: 'byte[] Encoding.GetBytes(string s)' i├ğindeki 's' parametresi i├ğin olas─▒ null ba┼şvuru ba─ş─▒ms─▒z de─şi┼şkeni. [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj]
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\Controllers\FinancialController.cs(116,83): error CS0246: 'IUnitOfWork' t├╝r├╝ veya ad alan─▒ ad─▒ bulunamad─▒ (bir using y├Ânergeniz veya derleme ba┼şvurunuz mu eksik?) [C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.API\HousingEstateManagement.API.csproj]
+    5 Uyar─▒
+    1 Hata
+
+Ge├ğen S├╝re 00:00:02.66
+
+─░┼ş y├╝k├╝ g├╝ncelle┼ştirmeleri var. Daha fazla bilgi i├ğin `dotnet workload list` ├ğal─▒┼şt─▒r─▒n.

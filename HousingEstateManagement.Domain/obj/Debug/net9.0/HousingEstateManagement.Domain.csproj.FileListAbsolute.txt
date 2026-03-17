@@ -1,0 +1,11 @@
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\bin\Debug\net9.0\HousingEstateManagement.Domain.deps.json
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\bin\Debug\net9.0\HousingEstateManagement.Domain.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\bin\Debug\net9.0\HousingEstateManagement.Domain.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.AssemblyInfo.cs
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\refint\HousingEstateManagement.Domain.dll
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\HousingEstateManagement.Domain.pdb
+C:\Users\kursa\.gemini\antigravity\scratch\HousingEstateManagement\HousingEstateManagement.Domain\obj\Debug\net9.0\ref\HousingEstateManagement.Domain.dll

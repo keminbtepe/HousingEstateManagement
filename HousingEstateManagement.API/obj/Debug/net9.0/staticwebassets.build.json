@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7ggDQIO9S++/BseCoEgQbFE9i67/lQKDGUIfeQOhz0Q=",
+  "Source": "HousingEstateManagement.API",
+  "BasePath": "_content/HousingEstateManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

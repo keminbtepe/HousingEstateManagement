@@ -4,7 +4,6 @@
 [![Generic badge](https://img.shields.io/badge/Frontend-React%2019%20%7C%20TS%20%7C%20Vite-61dafb.svg?style=for-the-badge&logo=react)](https://react.dev/)
 [![Generic badge](https://img.shields.io/badge/Database-SQL%20Server-red.svg?style=for-the-badge&logo=microsoft-sql-server)](https://www.microsoft.com/en-us/sql-server)
 [![Generic badge](https://img.shields.io/badge/Architecture-Clean%20Architecture-green.svg?style=for-the-badge)](#-mimari-tasarim-ilkeleri)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **HousingEstateManagement**, kurumsal düzeyde, modern ve kapsamlı bir Site Yönetim Sistemidir. Uygulama; **Clean Architecture (Temiz Mimari)** ilkelerine sıkı sıkıya bağlı kalınarak inşa edilmiş güçlü bir **.NET 9 Web API** backend yapısından ve **React 19**, **TypeScript**, **Vite**, **Zustand** ile **Tailwind CSS** teknolojileriyle geliştirilmiş yüksek performanslı bir SPA (Tek Sayfa Uygulaması) frontend mimarisinden oluşmaktadır.
 

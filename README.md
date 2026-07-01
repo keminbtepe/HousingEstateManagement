@@ -8,7 +8,7 @@
 ![Proje Ana Paneli](https://i.hizliresim.com/s7k5dda.png)
 
 
-**HousingEstateManagement**, kurumsal düzeyde, modern ve kapsamlı bir Site Yönetim Sistemidir. Uygulama; **Clean Architecture (Temiz Mimari)** ilkelerine sıkı sıkıya bağlı kalınarak inşa edilmiş güçlü bir **.NET 9 Web API** backend yapısından ve **React 19**, **TypeScript**, **Vite**, **Zustand** ile **Tailwind CSS** teknolojileriyle geliştirilmiş yüksek performanslı bir SPA (Tek Sayfa Uygulaması) frontend mimarisinden oluşmaktadır.
+**HousingEstateManagement**, kurumsal düzeyde, modern ve kapsamlı bir Site Yönetim Sistemidir. Uygulama; **Clean Architecture (Temiz Mimari)** ilkelerine sıkı sıkıya bağlı kalınarak inşa edilmiş güçlü bir **.NET 9 Web API** backend yapısından ve **React 19**, **TypeScript**ile **Tailwind CSS** teknolojileriyle geliştirilmiş yüksek performanslı bir frontend mimarisinden oluşmaktadır.
 
 Proje; blok/daire yerleşimleri, sakin dizini, otomatik finansal operasyonlar, çevrimiçi demokratik seçimler ve duyuru panoları gibi güçlü özellikler sunarak toplu konut sitelerinin günlük operasyonlarını kolaylaştırmak ve optimize etmek amacıyla tasarlanmıştır.
 
